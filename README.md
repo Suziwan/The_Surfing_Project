@@ -11,13 +11,16 @@ The languages and tools used for this projects are HTML, CSS and Bootstrap.
 <kbd>
   <img src=/The_Surfing_Project_1.png width="100%">
 </kbd>
+&nbsp
 
 <kbd>
   <img src=/The_Surfing_Project_2.png width="100%">
 </kbd>
+&nbsp
 
 <kbd>
   <img src=/The_Surfing_Project_3.png width="100%">
 </kbd>
+&nbsp
 
-PS: It shows only a landing page, the links and buttons do not work.  
+PS: It shows only a landing page, the links and buttons do not work.    
