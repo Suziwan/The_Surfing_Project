@@ -9,5 +9,13 @@ PS: It shows only a landing page, the links and buttons do not work.
 Overview:
 
 <kbd>
-  <img src=/The_Surfing_Project.png width="100%">
+  <img src=/The_Surfing_Project_1.png width="100%">
+</kbd>
+
+<kbd>
+  <img src=/The_Surfing_Project_2.png width="100%">
+</kbd>
+
+<kbd>
+  <img src=/The_Surfing_Project_3.png width="100%">
 </kbd>
